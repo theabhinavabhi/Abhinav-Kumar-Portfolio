@@ -30,3 +30,7 @@
 .nav ul li a:hover{
     color: red;
 }
+.intro-h h2{
+    text-align: center;
+    text-decoration: underline;
+}
